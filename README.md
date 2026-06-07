@@ -1,4 +1,4 @@
-# kubernetes-administration
+# Kubernetes-Operations-Lab
 
 Notes, manifests, and lab solutions covering core Kubernetes administration.
 Based on the KodeKloud curriculum by Mumshad Mannambeth.
